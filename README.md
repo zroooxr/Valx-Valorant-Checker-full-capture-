@@ -29,3 +29,16 @@ Features:
 -> Proxy Compatibility (broken)
 
 
+HOW TO USE:
+
+Download pycharm and pyinstaller or another py to exe converter
+
+Open fxcklite.py in pycharm
+
+Open in terminal then run "pyinstaller fxcklite.py --onefile"
+
+Make sure the exe is in the same folder as config etc
+
+OR DM ME AND ILL JUST GIVE YOU IT
+
+
