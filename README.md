@@ -1,22 +1,29 @@
 # valx-val-checker-
 
+** WARNING: I am not at fault for any consequences of you using this checker **
+
+READ for more info: https://pastebin.com/qn3meS98
+
+
 DM me on discord (zruxr#5923) for paid version source code.
 
 
 Valorant account checker. Proxy doesnt work rn, you can fix it ig. 
 
-You need to pip install requests, random, os, sys, time, ctypes, threading, easygui, datetime, webbrowser, shutil, fileinput, os.path, traceback, readchar, json, cloudscraper, pandas, ssl, string, colorama, Fore, Back, init, InquirerPy, inquirer, get_style, discord_webhook, DiscordWebhook, DiscordEmbed. BUT you should have most of these already. Might have to install more depending on what error it spits out.
+I know there is a lot of acc checkers availabe, espically on github, but I realesed this as its simple to build off/edit and is simple to run.
 
 
 
 Features:
 
-> Proxyless Checking
+-> Proxyless Checking
 
-> Full Capture
+-> Full Capture
 
-> One Line Checker (kinda broken, need to bulk check first)
+-> One Line Checker (kinda broken, need to bulk check first)
 
-> Webhook
+-> Webhook Compatibility 
 
-> Proxy Checking (broken)
+-> Proxy Compatibility (broken)
+
+
