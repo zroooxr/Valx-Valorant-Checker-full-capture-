@@ -1,4 +1,4 @@
-# valx-val-checker-
+# fxcklite/valx Valorant Account Checker
 
 ** WARNING: I am not at fault for any consequences of you using this checker **
 
