@@ -12,7 +12,11 @@ You need to pip install requests, random, os, sys, time, ctypes, threading, easy
 Features:
 
 > Proxyless Checking
+
 > Full Capture
+
 > One Line Checker (kinda broken, need to bulk check first)
+
 > Webhook
+
 > Proxy Checking (broken)
