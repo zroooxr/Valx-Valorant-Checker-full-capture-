@@ -2,6 +2,8 @@
 
 ** WARNING: I am not at fault for any consequences of you using this checker **
 
+USE ON VPS/RDP ETC FOR SAFETY
+
 READ for more info: https://pastebin.com/qn3meS98
 
 
