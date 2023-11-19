@@ -20,7 +20,7 @@ Features:
 
 -> Full Capture
 
--> One Line Checker (kinda broken, need to bulk check first)
+-> One Line Checker (kinda broken)
 
 -> Webhook Compatibility 
 
