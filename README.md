@@ -14,6 +14,9 @@ Valorant account checker. Proxy doesnt work rn, you can fix it ig.
 
 I know there is a lot of acc checkers availabe, espically on github, but I released this as its simple to build off/edit and is simple to run.
 
+![image](https://github.com/zroooxr/Valx-Valorant-Checker-full-capture-/assets/151418111/ad41ae9c-ede1-443f-8a2d-619b798e6826)
+
+
 -------------------------------------------------
 
 Features:
