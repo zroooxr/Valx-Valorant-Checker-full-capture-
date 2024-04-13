@@ -16,7 +16,7 @@ from typing import Any
 
 init(convert=True)
 
-ctypes.windll.kernel32.SetConsoleTitleW("valx | LITE made by baselgold and zruxr")
+ctypes.windll.kernel32.SetConsoleTitleW("valx | LITE made by zruxr and basegold")
 
 
 with open('config.json', 'r') as config_file:
@@ -878,17 +878,17 @@ def credits():
     if c == "1":
         os.system("cls")
         print(title)
-        print("    ~ discord.gg/MMsU8GKN5B\n    ~ or just dm us : Zruxr \n")
+        print("  dm us at zruxr. on discord\n")
         e = input(f"    ~ Press {Back.WHITE}{Fore.BLACK}ENTER{Back.RESET}{reset} if u want to join or {Back.WHITE}{Fore.BLACK}X{Back.RESET}{reset} to go back\n    ~ ")
         if e == "x":
             credits()
         else:
-            webbrowser.open("https://discord.gg/MMsU8GKN5B")
+            webbrowser.open("https://discord.gg/SxE38CgWxy")
     elif c == "2":
-        webbrowser.open("https://www.youtube.com/@zruxr/featured")
+        webbrowser.open("https://www.youtube.com/channel/UCAoESL4du7KuDSD5V02zZAg")
         credits()
     elif c == "3":
-        print("\n       ~ soon")
+        print("\n       ~ https://github.com/zroooxr/Valx-Valorant-Checker-full-capture-")
         time.sleep(4)
         credits()
     elif c == "q":
