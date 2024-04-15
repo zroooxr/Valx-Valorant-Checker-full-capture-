@@ -7,7 +7,7 @@ USE ON VPS/RDP ETC FOR SAFETY
 READ for more info: https://pastebin.com/qn3meS98
 
 
-DM me on discord (zruxr#5923) for paid version source code.
+DM me on discord (zruxr.) for paid version source code.
 
 
 Valorant account checker. Proxy doesnt work rn, you can fix it ig. 
